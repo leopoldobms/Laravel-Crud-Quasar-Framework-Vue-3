@@ -1,0 +1,14 @@
+.result .col {
+    border: solid 1px #ededed;
+}
+
+.col.img.bg-light img {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 30%;
+    height: 85%;
+}
+select#city{
+    color:#635c69;
+}
